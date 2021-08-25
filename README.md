@@ -6,8 +6,13 @@ download required modules
 pip install -r requirements.txt
 ```
 # RUN
+- csv to json:
 ```
-python main.py csv2json input.csv output.csv
+python main.py csv2json input.csv output.json
+```
+- json to csv:
+```
+python main.py json2csv input.json output.csv
 ```
 # CREDITS
 S.B#9838
