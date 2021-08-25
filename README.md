@@ -16,5 +16,5 @@ python main.py json2csv input.json output.csv
 ```
 ## CREDITS
 S.B#9838
-# STAR
+# STAR 🌟
 Give a star to this repo because why not :p
