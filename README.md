@@ -1,7 +1,7 @@
 # CSV2JSON TOOL
 Python code to convert csv file to json file and vice versa
 ## SETUP
-download required modules
+Install required modules
 ```
 pip install -r requirements.txt
 ```
