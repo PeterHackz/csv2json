@@ -14,7 +14,7 @@ python main.py csv2json input.csv output.json
 ```
 python main.py json2csv input.json output.csv
 ```
-## CREDITS
+## AUTHORS
 S.B#9838
 # STAR 🌟
 Give a star to this repo because why not :p
