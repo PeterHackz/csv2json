@@ -16,5 +16,7 @@ python main.py json2csv input.json output.csv
 ```
 ## AUTHORS
 S.B#9838
+# LINKS
+- [Join my discord server](https://discord.gg/b2ejYcJjqA)
 # STAR 🌟
 Give a star to this repo because why not :p
